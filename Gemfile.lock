@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mini_magick (4.11.0)
+
+PLATFORMS
+  arm64-darwin-20
+
+DEPENDENCIES
+  mini_magick
+
+BUNDLED WITH
+   2.2.11
